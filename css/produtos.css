@@ -1,0 +1,226 @@
+.col-conteudo{
+  display: grid;
+  grid-template-columns: 20% 80%;
+  grid-column-gap: 2em;
+  min-height: 320px;
+}
+
+.titulo-secao{
+  margin: 1.5em 0;
+
+  font-size: 1.8em;
+  text-align: center;
+}
+
+.btn{
+  display: block;
+  padding: 0.45em 1.225em;
+  box-shadow: 0 3px 7px var(--sombra-base);
+}
+
+.btn-rounded{
+  border-radius: 0.75em;
+}
+
+.btn-comprar{  
+  margin: 0 auto;
+  max-width: 13%;
+  background-color: #c80f0f;
+  color: var(--cor-branca);
+  text-align: center;
+  padding: 0.4em 1.75em;
+
+}
+
+.painel-produtos{
+  padding: 1.3rem;
+}
+
+.preco-produto span{
+  font-size: 1.2em;
+  padding-left: 0.5em;
+  color: red; /*modificar*/
+}
+
+.informacao{
+  padding: 1em;
+}
+
+.informacao h4{
+  text-transform: uppercase;
+}
+
+.informacao p:nth-child(3){
+  margin: 1.5em auto;
+}
+
+.informacao p br{
+  content: "" !important;
+  display: block !important;
+  margin: 1em 0 !important;
+  border-bottom: 1px solid var(--cor-branca);
+}
+
+.cartao-produto{
+  display: grid;
+  grid-template-columns: 35% 65%;
+  margin-bottom: 16px;
+  padding: 14px;
+  
+  box-shadow: 0 5px 7px var(--sombra-base);
+  border-radius: 6px;
+}
+.cartao-produto .ilustracao{
+  display: flex;
+  max-height: 260px;
+  min-height: 170px;
+  align-content: center;
+}
+
+.cartao-produto .ilustracao img{
+  flex: 2;
+  align-self: center;
+  
+  box-sizing: border-box;
+  width: 70%;
+  height: 170px;
+  margin: 0 0.3em;
+}
+
+.cartao-produto .ilustracao button{
+  height: 1.7em;
+  width: 1.7em;
+  align-self: center;
+
+  border: 1px solid #8a8a8a;
+  background: none;
+  border-radius: 50%;
+
+  cursor: pointer;
+}
+
+.col-artigos{
+  display: flex;
+  flex: 1 1 200px;
+}
+
+.col-artigos > section{
+  flex: 1 1 200px;
+}
+
+.col-artigos section{
+  margin: 1em;
+  padding: 1.7em 1em;
+}
+
+.artigo h4{
+  margin-bottom: 1.5em;
+  
+  text-align: center;
+  font-size: 1.4em;
+}
+
+.artigo p{
+  margin: 1em;
+  
+  text-align: justify;
+}
+
+.artigo > .conhecer-mais{
+  background-color: #824c1b; /*modificar*/
+  padding: 0.3 1.2em;
+  color: var(--cor-branca)
+}
+
+.painel-filtros{
+  position: sticky;
+  top: 40px;
+  overflow: hidden;
+  height: 320px;
+  min-height: 320px;
+
+  border: 1.7px solid var(--cor-branca);
+  border-radius: 6px;
+}
+
+.painel-filtros-header{
+  width: 100%;
+  background-color: #d7d7d7;
+  border-bottom: 1.7px solid var(--cor-branca);
+}
+
+.painel-filtros-header h3{
+  padding: 0.3em 0.7em;
+}
+
+.painel-filtros-body{
+  padding: 1.2em 0;
+}
+
+.cartao-produto .btn-comprar{
+  margin: 20px 0;
+}
+
+.filtro-div{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0.7em 0.7em;
+
+  cursor: pointer;
+}
+
+.filtro-div span{
+  display: block;
+  padding-left: 0.7em;
+}
+
+.filtro-header{
+  display: flex;
+}
+
+.filtro-header i{
+  align-self: center;
+  font-size: 1.4em;
+  padding-left: 0.5em;
+}
+
+.banner-bem-vindo{
+  position: relative;
+  max-height: 76vh;
+  width: 100%;
+
+  filter: brightness(70%);
+}
+
+.banner-txt{
+  position: absolute;
+  top: 18%;
+  right: 5%;
+  width: 40%;
+  padding: 1.1em;
+
+  border-radius: 6px;
+  background-color: #21212147;
+  color: var(--cor-branca);
+  font-weight: 500;
+  text-shadow: 1px 1px 3px #212121;
+}
+
+.banner-txt h2{
+  margin-bottom: 0.8em; 
+  
+  text-align: end;
+  font-size: 2.1em;
+}
+
+.banner-txt p{
+  font-size: 1.3em;
+  text-align: justify;
+  line-height: 1.5em;
+}
+
+.rodape {
+  position: absolute;
+  bottom: 0;
+}

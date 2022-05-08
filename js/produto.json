@@ -1,0 +1,166 @@
+[
+  {
+    "marca" : "chevrolet",
+    "veiculos" : [
+      {
+        "nome" : "Chevrolet Onix 2022",
+        "preco" : "13.640",
+        "descricao" : [
+          "Além da exclusiva tecnologia Wi-Fi Nativo, Carregador wireless e Easy Park, o Onix 2022 também conta com Projeção sem Fio, uma inovação que permite abandonar os cabos na hora de espelhar o seu smartphone à tela de 8” do MyLink de última geração.",
+          "Mais do que um interior sofisticado em preto e caramelo ou preto e cinza, no Onix 2022, o estilo está presente em cada detalhe: volante esportivo com revestimento premium, banco traseiro bipartido e entrada USB para os passageiros do banco de trás."
+        ],
+        "imagens" : [
+          "../img/chevrolet/modelo-1.webp"
+        ]
+      },
+      {
+        "nome" : "Camaro 2022",
+        "preco" : 102.341,
+        "descricao" : [
+          "O icônico motor V8, que acompanha o Chevrolet Camaro desde sua primeira geração, ficou ainda mais agressivo com uma nova transmissão de 10 velocidades e um câmbio otimizado para performance que entregam uma resposta única nas pistas.",
+          "MOTOR: V8 6.2L.",
+          "461CV DE POTÊNCIA.",
+          "ACELERAÇÃO DE 0 A 100 em 4,2s.",
+          "TORQUE DE 62.9 Kgfm."
+        ],
+        "imagens" : [
+          "../img/chevrolet/modelo-2.webp"
+        ]
+      },
+      {
+        "nome" : "Tracker SUV",
+        "preco" : 24.406,
+        "descricao" : [
+          "Neste SUV você conta com 6 airbags de série (2 frontais, 2 laterais e 2 de cortina) para que todos a bordo tenham muito mais segurança. Além disso, você também tem mais tranquilidade ao dirigir com o controle de limite de velocidade e o sensor crepuscular, que acende os faróis de forma automática.",
+          "Alerta de Colisão Frontal com Freio de Emergência.",
+          "O Tracker foi pensado para você ter a melhor experiência dentro de um SUV. Por meio de computador de bordo e do painel de instrumentos você tem total controle sobre o carro. Além disso, a entrada USB dupla para o banco traseiro deixa a viagem dos seus passageiros ainda mais prática."
+        ],
+        "imagens" : [
+          "../img/chevrolet/modelo-3.webp",
+          "../img/chevrolet/modelo-3-lateral.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "marca" : "nissan",
+    "veiculos" : [
+      {
+        "nome" : "Nissan Kicks",
+        "preco" : 119.182,
+        "descricao" : [
+          "Dimensões: 4.310 mm C x 1.760 mm L x 1.590-1.610 mm A.",
+          "Volume de carga: 432 l.",
+          "Tanque de combustível: 41 L.",
+          "Peso: 1.104 - 1.139 kg."
+        ],
+        "imagens" : [
+          "../img/nissan/modelo-1-frente.png", 
+          "../img/nissan/modelo-1-fundo.png",
+          "../img/nissan/modelo-1-lateral.png"
+        ]
+      },
+      {
+        "nome" : "Nissan Leaf",
+        "preco" : 293.707,
+        "descricao" : [
+          "O Nissan LEAF conta com uma autonomia de 389KM no ciclo europeu NEDC (New European Driving Cycle), composto aproximadamente por 70% em tráfego urbano e 30%  tráfego em estrada. No ciclo americano EPA (Environmental Protection Agency), a autonomia é de 272KM, composto aproximadamente por 50% em tráfego urbano e 50% tráfego em estrada.",
+          "A bateria tem garantia de 8 anos ou 160.000km, o que ocorrer primeiro. Após os 8 anos a bateria possui pelo menos 9  barras de capacidade de carga, trazendo mais praticidade e segurança para os proprietários do Nissan LEAF.",
+          "Texto exemplo"
+        ],
+        "imagens" : [
+          "../img/nissan/modelo-2-frente.png",
+          "../img/nissan/modelo-2-fundo.png",
+          "../img/nissan/modelo-2-lateral.png"
+        ]
+      },
+      {
+        "nome" : "Nissan Rogue",
+        "preco" : 32.265,
+        "descricao" : [
+          "Até 32 MPG rodovia. Porque há pelo menos 12 lugares em que você prefere gastar seu dinheiro do que no posto de gasolina.",
+          "O motor 2.0 L de 4 cilindros da Rogue Sport apresenta um avançado sistema de distribuição de válvulas que pode se ajustar ao seu estilo de condução. Você terá o poder de mesclar e o alcance para continuar."
+        ],
+        "imagens" : [
+          "../img/nissan/modelo-3-frente.webp",
+          "../img/nissan/modelo-3-lateral2.webp",
+          "../img/nissan/modelo-3-fundo.webp",
+          "../img/nissan/modelo-3-lateral.webp"
+        ]
+      },
+      {
+        "nome" : "Nissan Pathfinder",
+        "preco" : "49.430",
+        "descricao" : [
+          "Os sete modos selecionáveis pelo motorista do Pathfinder incluem um modo de reboque com controle de velocidade em declive que ajuda a reduzir a busca por marchas para um reboque mais suave e confiante. Em parceria com isso, o Trailer Sway Control pode ajudar a manter um trailer na linha, seja com ventos laterais ou estradas ruins.",
+          "Conectar um trailer costumava ser um trabalho de duas pessoas, mas com o Intelligent Around View Monitor disponível da Pathfinder, você tem um observador virtual ajudando você a se alinhar facilmente ao seu trailer e também ajudando a manter-se afastado de obstáculos em seu caminho.",
+          "Junto com mais potência vem uma maior capacidade de reboque. O novo Pathfinder não apenas produz 284 hp e 259 lb-ft de torque, mas também tem a capacidade de rebocar um máximo de até 6.000 lbs, para que você possa trazer praticamente tudo o que tiver em mente.",
+          "Experimente o desempenho dinâmico a cada curva. Com a potência de um impressionante motor V6 a gasolina de injeção direta (DIG) de 3,5 L, você se sentirá confiante ao cruzar a estrada ou rebocar grandes embarcações."
+        ],
+        "imagens" : [
+          "../img/nissan/modelo-4-frente.webp",
+          "../img/nissan/modelo-4-lateral2.webp",
+          "../img/nissan/modelo-4-fundo.webp",
+          "../img/nissan/modelo-4-lateral.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "marca" : "mercedes",
+    "veiculos" : [
+      {
+        "nome" : "Mercedes CLA 250",
+        "preco" : 62.129,
+        "descricao" : [
+          "Visualmente, o modelo alemão tem linhas acentuadas de um cupê esportivo, além de faróis alongados e uma boa distância entre-eixos. As laterais chamam a atenção pelas rodas de 18 polegadas com cinco raios.",
+          "O design exterior acentua sua esportividade pelo Pacote Night, que tem elementos externos em preto brilhante, que aparecem nos frisos dos para-choques, retrovisores e no contorno das janelas.",
+          "A tração é integral e ainda conta com o modo \"Drift\"."
+        ],
+        "imagens" : [
+          "../img/mercedes/modelo-1.png"
+        ]
+      },
+      {
+        "nome" : "Mercedes Classe A Sedan",
+        "preco" : 62.989,
+        "descricao" : [
+          "O MBUX (Experiência Mercedes-Benz para o Usuário) proporciona uma maneira completamente nova de operar um automóvel. Através de comandos de voz é possível configurar diversas funções do automóvel, como a persiana do teto-solar, regular os bancos e o ar-condicionado, além de acessar alguns dos seus aplicativos favoritos do celular como Spotify e Waze.",
+          "Em situações de emergência, o Mercedes-Benz Classe A Sedan irá avisá-lo quando uma colisão for iminente, intervirá automaticamente quando as rodas travarem e tomará medidas evasivas. Ou até, autonomamente, freará o veículo até parar em situações de emergência."
+        ],
+        "imagens" : [
+          "../img/mercedes/modelo-2-frente.webp",
+          "../img/mercedes/modelo-2-fundo.jpeg"
+        ]
+      },
+      {
+        "nome" : "Nissan GLE Coupé",
+        "preco" : 160.623,
+        "descricao" : [
+          "Por dentro, a cabine oferece duas telas de 12,3″ e sistema MBUX (Mercedes-Benz User Experience), que possibilita utilizar comandos de voz para realizar determinadas funções, como ajustar a temperatura do ar-condicionado ou mudar a estação de rádio.",
+          "O porta-malas de 655 litros vai a 1.790 litros após o rebatimento do banco traseiro."
+        ],
+        "imagens" : [
+          "../img/mercedes/modelo-3.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "marca" : "bmw",
+    "veiculos" : [
+      {
+        "nome" : "BMW série 1",
+        "preco" : 62.569,
+        "descricao" : [
+          "O BMW Série 1 traduz esportividade, concebida de maneira inteligente e com um design moderno. Explore as opções atraentes para o interior e exterior do veículo, a transmissão, os componentes do chassis otimizados dinamicamente, o teto solar, bem como as inovadoras tecnologias e os sistemas de assistência ao motorista.",
+          "Opere o computador de bordo utilizando o controle por gestos, faça com que o seu veículo entre na vaga de estacionamento de maneira independente, ou solicite ao assistente de voz inteligente o posto de gasolina mais próximo para abastecimento.",
+          "Os modelos BMW Série 1 oferecem um grande número de funções úteis, serviços digitais e sistemas de assistência ao motorista - para se atingir o máximo de conforto e de segurança."
+        ],
+        "imagens" : [
+          "../img/bmw/modelo-1.png"
+        ]
+      }
+    ]
+  }
+]

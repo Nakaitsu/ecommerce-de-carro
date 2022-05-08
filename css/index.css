@@ -1,0 +1,24 @@
+.home-banner {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: -1;
+}
+
+.banner-txt h2{
+  margin-bottom: 0.8em; 
+  
+  text-align: end;
+  font-size: 2.1em;
+}
+
+.show {
+  opacity: 1;
+  transition: opacity 1800ms;
+}
+
+.hide {
+  opacity: 0;
+  transition: opacity 800ms;
+}
